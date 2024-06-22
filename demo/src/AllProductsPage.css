@@ -1,0 +1,15 @@
+/* AllProductsPage.css */
+
+.all-products-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
